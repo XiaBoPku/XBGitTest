@@ -16,7 +16,7 @@ public class MyView extends View {
     protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {
         super.onMeasure(widthMeasureSpec, heightMeasureSpec);
 
-        //TODO：
+        //TODO：第二次提交
     }
 
 
